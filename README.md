@@ -42,6 +42,6 @@ docker compose up -d
 ```
 ### Loglara Bakalım
 ```
-docker compose logs -f besu-mainnet
+docker logs -f besu-mainnet
 ```
 NOT: PORT 8549 dur.
