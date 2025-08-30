@@ -1,7 +1,7 @@
 
 ```
 sudo apt update
-sudo apt install curl git jq lz4 snapd unzip bc -y
+sudo apt install wget curl git jq lz4 snapd unzip bc -y
 sudo apt upgrade -y
 ```
 ```
